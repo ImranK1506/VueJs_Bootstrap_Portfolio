@@ -1,17 +1,20 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Navigation/>
+    <router-view></router-view>
+    <Footer/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Navigation from './components/includes/navigation'
+import Footer from './components/includes/footer'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Navigation,
+    Footer
   }
 }
 </script>

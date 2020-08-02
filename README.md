@@ -1,24 +1,18 @@
-# vue-bootstrap-portfolio
+# Portfolio
 
-## Project setup
-```
+A portfolio template made with VueJS and Bootstrap
+
+## Installation
+
+~~~
 yarn install
-```
+~~~
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Resources
 
-### Compiles and minifies for production
-```
-yarn build
-```
+* [VueJs](https://vuejs.org/)
+* [Bootstrap](https://getbootstrap.com/)
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Author
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Imran Khan
