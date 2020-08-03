@@ -4,7 +4,7 @@
     <section class="section">
       <div class="container-fluid">
         <img alt="Vue logo" class="rounded-circle"
-             src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Woman_1.jpg/220px-Woman_1.jpg">
+             src="../assets/profimage.png" style="width: 200px">
         <h1>Software Developer</h1>
         <p>This is a fun project I built while learning
           vue.js and bootstrap
