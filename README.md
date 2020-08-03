@@ -8,6 +8,12 @@ A portfolio template made with VueJS and Bootstrap
 yarn install
 ~~~
 
+## Usage
+
+~~~
+yarn serve
+~~~
+
 ## Resources
 
 * [VueJs](https://vuejs.org/)
